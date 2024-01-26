@@ -1,0 +1,17 @@
+il 0,0
+il 1,5
+brz 0,12 
+fsmbi 2,20 
+mpy 3,0,1
+il 4,2
+ai 5,0,30
+stqd 0,10(0)
+mpy 6,0,1
+il 7,2
+ai 8,0,30
+stqd 1,10(0)
+mpy 9,0,1
+mpy 10,0,1
+fsmbi 11,20 
+fsmbi 12,21 
+stop 

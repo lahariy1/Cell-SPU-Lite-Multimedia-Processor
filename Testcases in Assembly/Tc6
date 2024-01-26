@@ -1,0 +1,32 @@
+il 0,2
+nop 
+il 1,5
+nop 
+lnop 
+nop 
+lnop 
+nop 
+nop 
+lnop 
+lnop 
+nop 
+lnop 
+nop 
+lnop 
+nop 
+lnop 
+nop 
+lnop 
+nop 
+lnop 
+nop 
+lnop 
+nop 
+lnop 
+nop 
+il 2,2
+rot 5,1,0
+ai 3,0,30
+shli 4,2,2
+ai 4,0,7
+stop 
